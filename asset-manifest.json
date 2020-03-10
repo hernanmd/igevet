@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/igevet/static/css/main.5f361e03.chunk.css",
+    "main.js": "/igevet/static/js/main.2e29c639.chunk.js",
+    "main.js.map": "/igevet/static/js/main.2e29c639.chunk.js.map",
+    "runtime-main.js": "/igevet/static/js/runtime-main.6d050fff.js",
+    "runtime-main.js.map": "/igevet/static/js/runtime-main.6d050fff.js.map",
+    "static/js/2.b1dc5a7b.chunk.js": "/igevet/static/js/2.b1dc5a7b.chunk.js",
+    "static/js/2.b1dc5a7b.chunk.js.map": "/igevet/static/js/2.b1dc5a7b.chunk.js.map",
+    "index.html": "/igevet/index.html",
+    "precache-manifest.5cc38fd5f00857a25948ebc88a31ae14.js": "/igevet/precache-manifest.5cc38fd5f00857a25948ebc88a31ae14.js",
+    "service-worker.js": "/igevet/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/igevet/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b1dc5a7b.chunk.js.LICENSE.txt": "/igevet/static/js/2.b1dc5a7b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/igevet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d050fff.js",
+    "static/js/2.b1dc5a7b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2e29c639.chunk.js"
+  ]
+}
